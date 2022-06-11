@@ -1,4 +1,3 @@
-Hi I'm Kiernan Geoghegan,
-I am a freshman at Rutgers University looking to major in computer science. I just graduated from the Marine Academy of Technology and Environmental Science.
-I hope to use Github as a place to display my personal projects.
-Thanks for checking out my page.
+Rising sophomore at Rutgers University. CS + Econ. Blockchain Hub.
+
+Interested in smart contract dev, MEV, data science, ML, + others
